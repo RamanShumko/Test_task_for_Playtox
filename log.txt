@@ -1,0 +1,696 @@
+2024-03-23 18:28:37 INFO  Main:63 - Initialized account 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:37 INFO  Main:63 - Initialized account 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:37 INFO  Main:63 - Initialized account d67378d2-d2ae-4faf-af53-c339b3b6337f
+2024-03-23 18:28:37 INFO  Main:63 - Initialized account b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:38 INFO  Account:22 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:38 INFO  Account:25 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:38 INFO  Account:29 - Transfer from account 15865390-7926-4a8b-88ed-eab5254ba782 to account 610c8872-59ab-4808-80b5-b889548d8f32 of amount 596 completed.
+2024-03-23 18:28:39 INFO  Account:22 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:39 INFO  Account:25 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:39 INFO  Account:29 - Transfer from account b36307e6-2fe3-4aec-8021-cfc87dac7a87 to account 15865390-7926-4a8b-88ed-eab5254ba782 of amount 430 completed.
+2024-03-23 18:28:39 INFO  Account:22 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:39 INFO  Account:25 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:39 INFO  Account:29 - Transfer from account 610c8872-59ab-4808-80b5-b889548d8f32 to account b36307e6-2fe3-4aec-8021-cfc87dac7a87 of amount 933 completed.
+2024-03-23 18:28:39 INFO  Account:22 - Зашел d67378d2-d2ae-4faf-af53-c339b3b6337f
+2024-03-23 18:28:39 INFO  Account:25 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:39 INFO  Account:29 - Transfer from account d67378d2-d2ae-4faf-af53-c339b3b6337f to account b36307e6-2fe3-4aec-8021-cfc87dac7a87 of amount 22 completed.
+2024-03-23 18:28:39 INFO  Account:22 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:39 INFO  Account:25 - Зашел d67378d2-d2ae-4faf-af53-c339b3b6337f
+2024-03-23 18:28:39 INFO  Account:29 - Transfer from account 15865390-7926-4a8b-88ed-eab5254ba782 to account d67378d2-d2ae-4faf-af53-c339b3b6337f of amount 817 completed.
+2024-03-23 18:28:40 INFO  Account:22 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:40 INFO  Account:25 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:40 INFO  Account:29 - Transfer from account 610c8872-59ab-4808-80b5-b889548d8f32 to account 15865390-7926-4a8b-88ed-eab5254ba782 of amount 615 completed.
+2024-03-23 18:28:40 INFO  Account:22 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:40 INFO  Account:25 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:40 INFO  Account:29 - Transfer from account 15865390-7926-4a8b-88ed-eab5254ba782 to account 610c8872-59ab-4808-80b5-b889548d8f32 of amount 158 completed.
+2024-03-23 18:28:40 INFO  Account:22 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:40 INFO  Account:25 - Зашел d67378d2-d2ae-4faf-af53-c339b3b6337f
+2024-03-23 18:28:40 INFO  Account:29 - Transfer from account b36307e6-2fe3-4aec-8021-cfc87dac7a87 to account d67378d2-d2ae-4faf-af53-c339b3b6337f of amount 476 completed.
+2024-03-23 18:28:40 INFO  Account:22 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:40 INFO  Account:25 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:40 INFO  Account:29 - Transfer from account 15865390-7926-4a8b-88ed-eab5254ba782 to account 610c8872-59ab-4808-80b5-b889548d8f32 of amount 796 completed.
+2024-03-23 18:28:41 INFO  Account:22 - Зашел d67378d2-d2ae-4faf-af53-c339b3b6337f
+2024-03-23 18:28:41 INFO  Account:25 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:41 INFO  Account:29 - Transfer from account d67378d2-d2ae-4faf-af53-c339b3b6337f to account 15865390-7926-4a8b-88ed-eab5254ba782 of amount 701 completed.
+2024-03-23 18:28:41 INFO  Account:22 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:41 INFO  Account:25 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:41 INFO  Account:29 - Transfer from account b36307e6-2fe3-4aec-8021-cfc87dac7a87 to account 15865390-7926-4a8b-88ed-eab5254ba782 of amount 345 completed.
+2024-03-23 18:28:41 INFO  Account:22 - Зашел d67378d2-d2ae-4faf-af53-c339b3b6337f
+2024-03-23 18:28:41 INFO  Account:25 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:41 INFO  Account:29 - Transfer from account d67378d2-d2ae-4faf-af53-c339b3b6337f to account b36307e6-2fe3-4aec-8021-cfc87dac7a87 of amount 229 completed.
+2024-03-23 18:28:42 INFO  Account:22 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:42 INFO  Account:25 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:42 INFO  Account:29 - Transfer from account b36307e6-2fe3-4aec-8021-cfc87dac7a87 to account 610c8872-59ab-4808-80b5-b889548d8f32 of amount 617 completed.
+2024-03-23 18:28:42 INFO  Account:22 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:42 INFO  Account:25 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:42 INFO  Account:29 - Transfer from account b36307e6-2fe3-4aec-8021-cfc87dac7a87 to account 15865390-7926-4a8b-88ed-eab5254ba782 of amount 62 completed.
+2024-03-23 18:28:42 INFO  Account:22 - Зашел d67378d2-d2ae-4faf-af53-c339b3b6337f
+2024-03-23 18:28:42 INFO  Account:25 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:42 INFO  Account:29 - Transfer from account d67378d2-d2ae-4faf-af53-c339b3b6337f to account 15865390-7926-4a8b-88ed-eab5254ba782 of amount 295 completed.
+2024-03-23 18:28:42 INFO  Account:22 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:42 INFO  Account:25 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:42 INFO  Account:29 - Transfer from account b36307e6-2fe3-4aec-8021-cfc87dac7a87 to account 15865390-7926-4a8b-88ed-eab5254ba782 of amount 597 completed.
+2024-03-23 18:28:43 INFO  Account:22 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:43 INFO  Account:25 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:43 INFO  Account:29 - Transfer from account 610c8872-59ab-4808-80b5-b889548d8f32 to account b36307e6-2fe3-4aec-8021-cfc87dac7a87 of amount 811 completed.
+2024-03-23 18:28:43 INFO  Account:22 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:43 INFO  Account:25 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:43 INFO  Account:29 - Transfer from account 15865390-7926-4a8b-88ed-eab5254ba782 to account 610c8872-59ab-4808-80b5-b889548d8f32 of amount 645 completed.
+2024-03-23 18:28:43 INFO  Account:22 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:43 INFO  Account:25 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:43 INFO  Account:29 - Transfer from account 610c8872-59ab-4808-80b5-b889548d8f32 to account b36307e6-2fe3-4aec-8021-cfc87dac7a87 of amount 676 completed.
+2024-03-23 18:28:44 INFO  Account:22 - Зашел d67378d2-d2ae-4faf-af53-c339b3b6337f
+2024-03-23 18:28:44 INFO  Account:25 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:44 INFO  Account:29 - Transfer from account d67378d2-d2ae-4faf-af53-c339b3b6337f to account b36307e6-2fe3-4aec-8021-cfc87dac7a87 of amount 256 completed.
+2024-03-23 18:28:44 INFO  Account:22 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:44 INFO  Account:25 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:44 INFO  Account:29 - Transfer from account 15865390-7926-4a8b-88ed-eab5254ba782 to account b36307e6-2fe3-4aec-8021-cfc87dac7a87 of amount 988 completed.
+2024-03-23 18:28:44 INFO  Account:22 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:44 INFO  Account:25 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:44 INFO  Account:29 - Transfer from account 610c8872-59ab-4808-80b5-b889548d8f32 to account b36307e6-2fe3-4aec-8021-cfc87dac7a87 of amount 174 completed.
+2024-03-23 18:28:45 INFO  Account:22 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:45 INFO  Account:25 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:45 INFO  Account:29 - Transfer from account 610c8872-59ab-4808-80b5-b889548d8f32 to account b36307e6-2fe3-4aec-8021-cfc87dac7a87 of amount 201 completed.
+2024-03-23 18:28:45 INFO  Account:22 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:45 INFO  Account:25 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:45 INFO  Account:29 - Transfer from account b36307e6-2fe3-4aec-8021-cfc87dac7a87 to account 610c8872-59ab-4808-80b5-b889548d8f32 of amount 164 completed.
+2024-03-23 18:28:45 INFO  Account:22 - Зашел d67378d2-d2ae-4faf-af53-c339b3b6337f
+2024-03-23 18:28:45 INFO  Account:25 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:45 INFO  Account:29 - Transfer from account d67378d2-d2ae-4faf-af53-c339b3b6337f to account 610c8872-59ab-4808-80b5-b889548d8f32 of amount 360 completed.
+2024-03-23 18:28:45 INFO  Account:22 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:45 INFO  Account:25 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:45 INFO  Account:29 - Transfer from account b36307e6-2fe3-4aec-8021-cfc87dac7a87 to account 610c8872-59ab-4808-80b5-b889548d8f32 of amount 963 completed.
+2024-03-23 18:28:45 INFO  Account:22 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:45 INFO  Account:25 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:45 INFO  Account:29 - Transfer from account b36307e6-2fe3-4aec-8021-cfc87dac7a87 to account 610c8872-59ab-4808-80b5-b889548d8f32 of amount 831 completed.
+2024-03-23 18:28:46 INFO  Account:22 - Зашел 610c8872-59ab-4808-80b5-b889548d8f32
+2024-03-23 18:28:46 INFO  Account:25 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:46 INFO  Account:29 - Transfer from account 610c8872-59ab-4808-80b5-b889548d8f32 to account 15865390-7926-4a8b-88ed-eab5254ba782 of amount 630 completed.
+2024-03-23 18:28:46 INFO  Account:22 - Зашел d67378d2-d2ae-4faf-af53-c339b3b6337f
+2024-03-23 18:28:46 INFO  Account:25 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:46 INFO  Account:29 - Transfer from account d67378d2-d2ae-4faf-af53-c339b3b6337f to account 15865390-7926-4a8b-88ed-eab5254ba782 of amount 72 completed.
+2024-03-23 18:28:47 INFO  Account:22 - Зашел 15865390-7926-4a8b-88ed-eab5254ba782
+2024-03-23 18:28:47 INFO  Account:25 - Зашел b36307e6-2fe3-4aec-8021-cfc87dac7a87
+2024-03-23 18:28:47 INFO  Account:29 - Transfer from account 15865390-7926-4a8b-88ed-eab5254ba782 to account b36307e6-2fe3-4aec-8021-cfc87dac7a87 of amount 485 completed.
+2024-03-23 18:28:47 INFO  Main:56 - All transactions completed. Exiting application.
+2024-03-23 18:31:42 INFO  Main:63 - Initialized account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:42 INFO  Main:63 - Initialized account f007efa1-0801-488f-ac53-e5485cc3c500
+2024-03-23 18:31:42 INFO  Main:63 - Initialized account 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:42 INFO  Main:63 - Initialized account 93e32c74-4b87-4ab1-a49f-e80a75804b8b
+2024-03-23 18:31:44 INFO  Account:22 - Зашел f007efa1-0801-488f-ac53-e5485cc3c500
+2024-03-23 18:31:44 INFO  Account:25 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:44 INFO  Account:29 - Transfer from account f007efa1-0801-488f-ac53-e5485cc3c500 to account 296744f9-85f4-44b8-95dd-a1e09c3f1945 of amount 822 completed.
+2024-03-23 18:31:44 INFO  Account:22 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:44 INFO  Account:25 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:44 INFO  Account:29 - Transfer from account 296744f9-85f4-44b8-95dd-a1e09c3f1945 to account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d of amount 113 completed.
+2024-03-23 18:31:44 INFO  Account:22 - Зашел 93e32c74-4b87-4ab1-a49f-e80a75804b8b
+2024-03-23 18:31:44 INFO  Account:25 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:44 INFO  Account:29 - Transfer from account 93e32c74-4b87-4ab1-a49f-e80a75804b8b to account 296744f9-85f4-44b8-95dd-a1e09c3f1945 of amount 301 completed.
+2024-03-23 18:31:44 INFO  Account:22 - Зашел f007efa1-0801-488f-ac53-e5485cc3c500
+2024-03-23 18:31:44 INFO  Account:25 - Зашел 93e32c74-4b87-4ab1-a49f-e80a75804b8b
+2024-03-23 18:31:44 INFO  Account:29 - Transfer from account f007efa1-0801-488f-ac53-e5485cc3c500 to account 93e32c74-4b87-4ab1-a49f-e80a75804b8b of amount 152 completed.
+2024-03-23 18:31:44 INFO  Account:22 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:44 INFO  Account:25 - Зашел 93e32c74-4b87-4ab1-a49f-e80a75804b8b
+2024-03-23 18:31:44 INFO  Account:29 - Transfer from account 296744f9-85f4-44b8-95dd-a1e09c3f1945 to account 93e32c74-4b87-4ab1-a49f-e80a75804b8b of amount 334 completed.
+2024-03-23 18:31:45 INFO  Account:22 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:45 INFO  Account:25 - Зашел 93e32c74-4b87-4ab1-a49f-e80a75804b8b
+2024-03-23 18:31:45 INFO  Account:29 - Transfer from account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d to account 93e32c74-4b87-4ab1-a49f-e80a75804b8b of amount 92 completed.
+2024-03-23 18:31:45 INFO  Account:22 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:45 INFO  Account:25 - Зашел f007efa1-0801-488f-ac53-e5485cc3c500
+2024-03-23 18:31:45 INFO  Account:29 - Transfer from account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d to account f007efa1-0801-488f-ac53-e5485cc3c500 of amount 662 completed.
+2024-03-23 18:31:45 INFO  Account:22 - Зашел 93e32c74-4b87-4ab1-a49f-e80a75804b8b
+2024-03-23 18:31:45 INFO  Account:25 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:45 INFO  Account:29 - Transfer from account 93e32c74-4b87-4ab1-a49f-e80a75804b8b to account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d of amount 885 completed.
+2024-03-23 18:31:45 INFO  Account:22 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:45 INFO  Account:25 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:45 INFO  Account:29 - Transfer from account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d to account 296744f9-85f4-44b8-95dd-a1e09c3f1945 of amount 994 completed.
+2024-03-23 18:31:45 INFO  Account:22 - Зашел f007efa1-0801-488f-ac53-e5485cc3c500
+2024-03-23 18:31:45 INFO  Account:25 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:45 INFO  Account:29 - Transfer from account f007efa1-0801-488f-ac53-e5485cc3c500 to account 296744f9-85f4-44b8-95dd-a1e09c3f1945 of amount 846 completed.
+2024-03-23 18:31:46 INFO  Account:22 - Зашел f007efa1-0801-488f-ac53-e5485cc3c500
+2024-03-23 18:31:46 INFO  Account:25 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:46 INFO  Account:29 - Transfer from account f007efa1-0801-488f-ac53-e5485cc3c500 to account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d of amount 668 completed.
+2024-03-23 18:31:46 INFO  Account:22 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:46 INFO  Account:25 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:46 INFO  Account:29 - Transfer from account 296744f9-85f4-44b8-95dd-a1e09c3f1945 to account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d of amount 72 completed.
+2024-03-23 18:31:47 INFO  Account:22 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:47 INFO  Account:25 - Зашел 93e32c74-4b87-4ab1-a49f-e80a75804b8b
+2024-03-23 18:31:47 INFO  Account:29 - Transfer from account 296744f9-85f4-44b8-95dd-a1e09c3f1945 to account 93e32c74-4b87-4ab1-a49f-e80a75804b8b of amount 423 completed.
+2024-03-23 18:31:47 INFO  Account:22 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:47 INFO  Account:25 - Зашел 93e32c74-4b87-4ab1-a49f-e80a75804b8b
+2024-03-23 18:31:47 INFO  Account:29 - Transfer from account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d to account 93e32c74-4b87-4ab1-a49f-e80a75804b8b of amount 55 completed.
+2024-03-23 18:31:47 INFO  Account:22 - Зашел 93e32c74-4b87-4ab1-a49f-e80a75804b8b
+2024-03-23 18:31:47 INFO  Account:25 - Зашел f007efa1-0801-488f-ac53-e5485cc3c500
+2024-03-23 18:31:47 INFO  Account:29 - Transfer from account 93e32c74-4b87-4ab1-a49f-e80a75804b8b to account f007efa1-0801-488f-ac53-e5485cc3c500 of amount 687 completed.
+2024-03-23 18:31:48 INFO  Account:22 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:48 INFO  Account:25 - Зашел f007efa1-0801-488f-ac53-e5485cc3c500
+2024-03-23 18:31:48 INFO  Account:29 - Transfer from account 296744f9-85f4-44b8-95dd-a1e09c3f1945 to account f007efa1-0801-488f-ac53-e5485cc3c500 of amount 916 completed.
+2024-03-23 18:31:48 INFO  Account:22 - Зашел f007efa1-0801-488f-ac53-e5485cc3c500
+2024-03-23 18:31:48 INFO  Account:25 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:48 INFO  Account:29 - Transfer from account f007efa1-0801-488f-ac53-e5485cc3c500 to account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d of amount 743 completed.
+2024-03-23 18:31:48 INFO  Account:22 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:48 INFO  Account:25 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:48 INFO  Account:29 - Transfer from account 296744f9-85f4-44b8-95dd-a1e09c3f1945 to account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d of amount 987 completed.
+2024-03-23 18:31:48 INFO  Account:22 - Зашел 93e32c74-4b87-4ab1-a49f-e80a75804b8b
+2024-03-23 18:31:48 INFO  Account:25 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:48 INFO  Account:29 - Transfer from account 93e32c74-4b87-4ab1-a49f-e80a75804b8b to account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d of amount 759 completed.
+2024-03-23 18:31:48 INFO  Account:22 - Зашел f007efa1-0801-488f-ac53-e5485cc3c500
+2024-03-23 18:31:48 INFO  Account:25 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:48 INFO  Account:29 - Transfer from account f007efa1-0801-488f-ac53-e5485cc3c500 to account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d of amount 293 completed.
+2024-03-23 18:31:49 INFO  Account:22 - Зашел f007efa1-0801-488f-ac53-e5485cc3c500
+2024-03-23 18:31:49 INFO  Account:25 - Зашел 93e32c74-4b87-4ab1-a49f-e80a75804b8b
+2024-03-23 18:31:49 INFO  Account:29 - Transfer from account f007efa1-0801-488f-ac53-e5485cc3c500 to account 93e32c74-4b87-4ab1-a49f-e80a75804b8b of amount 103 completed.
+2024-03-23 18:31:49 INFO  Account:22 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:49 INFO  Account:25 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:49 INFO  Account:29 - Transfer from account 296744f9-85f4-44b8-95dd-a1e09c3f1945 to account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d of amount 657 completed.
+2024-03-23 18:31:50 INFO  Account:22 - Зашел f007efa1-0801-488f-ac53-e5485cc3c500
+2024-03-23 18:31:50 INFO  Account:25 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:50 INFO  Account:29 - Transfer from account f007efa1-0801-488f-ac53-e5485cc3c500 to account 296744f9-85f4-44b8-95dd-a1e09c3f1945 of amount 774 completed.
+2024-03-23 18:31:50 INFO  Account:22 - Зашел f007efa1-0801-488f-ac53-e5485cc3c500
+2024-03-23 18:31:50 INFO  Account:25 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:50 INFO  Account:29 - Transfer from account f007efa1-0801-488f-ac53-e5485cc3c500 to account 296744f9-85f4-44b8-95dd-a1e09c3f1945 of amount 451 completed.
+2024-03-23 18:31:50 INFO  Account:22 - Зашел f007efa1-0801-488f-ac53-e5485cc3c500
+2024-03-23 18:31:50 INFO  Account:25 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:50 INFO  Account:29 - Transfer from account f007efa1-0801-488f-ac53-e5485cc3c500 to account 296744f9-85f4-44b8-95dd-a1e09c3f1945 of amount 175 completed.
+2024-03-23 18:31:51 INFO  Account:22 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:51 INFO  Account:25 - Зашел 93e32c74-4b87-4ab1-a49f-e80a75804b8b
+2024-03-23 18:31:51 INFO  Account:29 - Transfer from account 296744f9-85f4-44b8-95dd-a1e09c3f1945 to account 93e32c74-4b87-4ab1-a49f-e80a75804b8b of amount 609 completed.
+2024-03-23 18:31:51 INFO  Account:22 - Зашел 93e32c74-4b87-4ab1-a49f-e80a75804b8b
+2024-03-23 18:31:51 INFO  Account:25 - Зашел f007efa1-0801-488f-ac53-e5485cc3c500
+2024-03-23 18:31:51 INFO  Account:29 - Transfer from account 93e32c74-4b87-4ab1-a49f-e80a75804b8b to account f007efa1-0801-488f-ac53-e5485cc3c500 of amount 549 completed.
+2024-03-23 18:31:51 INFO  Account:22 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:51 INFO  Account:25 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:51 INFO  Account:29 - Transfer from account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d to account 296744f9-85f4-44b8-95dd-a1e09c3f1945 of amount 295 completed.
+2024-03-23 18:31:51 INFO  Account:22 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:51 INFO  Account:25 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:51 INFO  Account:29 - Transfer from account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d to account 296744f9-85f4-44b8-95dd-a1e09c3f1945 of amount 740 completed.
+2024-03-23 18:31:51 INFO  Account:22 - Зашел 296744f9-85f4-44b8-95dd-a1e09c3f1945
+2024-03-23 18:31:51 INFO  Account:25 - Зашел 8759b789-12dd-4abd-a0fb-bd2c0e5f393d
+2024-03-23 18:31:51 INFO  Account:29 - Transfer from account 296744f9-85f4-44b8-95dd-a1e09c3f1945 to account 8759b789-12dd-4abd-a0fb-bd2c0e5f393d of amount 227 completed.
+2024-03-23 18:31:51 INFO  Main:56 - All transactions completed. Exiting application.
+2024-03-23 18:33:38 INFO  Main:63 - Initialized account 1126ced6-c545-424f-949d-b54e82b5809c
+2024-03-23 18:33:38 INFO  Main:63 - Initialized account 84cc1492-c227-4ba9-a544-794e177500bc
+2024-03-23 18:33:38 INFO  Main:63 - Initialized account 81905b6d-649b-42c8-883d-7397b422191d
+2024-03-23 18:33:38 INFO  Main:63 - Initialized account ca9cab52-9834-49d7-b831-ebedf3c0bcfd
+2024-03-23 18:33:38 INFO  Account:22 - Зашел 81905b6d-649b-42c8-883d-7397b422191d
+2024-03-23 18:33:38 INFO  Account:22 - Зашел 84cc1492-c227-4ba9-a544-794e177500bc
+2024-03-23 18:33:38 INFO  Account:22 - Зашел ca9cab52-9834-49d7-b831-ebedf3c0bcfd
+2024-03-23 18:33:38 INFO  Account:25 - Зашел 1126ced6-c545-424f-949d-b54e82b5809c
+2024-03-23 18:33:38 INFO  Account:36 - Блокировка id 84cc1492-c227-4ba9-a544-794e177500bc не удалась
+2024-03-23 18:33:38 INFO  Account:36 - Блокировка id ca9cab52-9834-49d7-b831-ebedf3c0bcfd не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id 84cc1492-c227-4ba9-a544-794e177500bc не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id ca9cab52-9834-49d7-b831-ebedf3c0bcfd не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id ca9cab52-9834-49d7-b831-ebedf3c0bcfd не удалась
+2024-03-23 18:33:38 INFO  Account:22 - Зашел ca9cab52-9834-49d7-b831-ebedf3c0bcfd
+2024-03-23 18:33:38 INFO  Account:25 - Зашел 84cc1492-c227-4ba9-a544-794e177500bc
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id 81905b6d-649b-42c8-883d-7397b422191d не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id 81905b6d-649b-42c8-883d-7397b422191d не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id 1126ced6-c545-424f-949d-b54e82b5809c не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id 84cc1492-c227-4ba9-a544-794e177500bc не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id 84cc1492-c227-4ba9-a544-794e177500bc не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id 84cc1492-c227-4ba9-a544-794e177500bc не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id ca9cab52-9834-49d7-b831-ebedf3c0bcfd не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id 84cc1492-c227-4ba9-a544-794e177500bc не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id 1126ced6-c545-424f-949d-b54e82b5809c не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id ca9cab52-9834-49d7-b831-ebedf3c0bcfd не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id 81905b6d-649b-42c8-883d-7397b422191d не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id 81905b6d-649b-42c8-883d-7397b422191d не удалась
+2024-03-23 18:33:38 INFO  Account:29 - Transfer from account ca9cab52-9834-49d7-b831-ebedf3c0bcfd to account 84cc1492-c227-4ba9-a544-794e177500bc of amount 159 completed.
+2024-03-23 18:33:38 INFO  Account:29 - Transfer from account 81905b6d-649b-42c8-883d-7397b422191d to account 1126ced6-c545-424f-949d-b54e82b5809c of amount 448 completed.
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id 81905b6d-649b-42c8-883d-7397b422191d не удалась
+2024-03-23 18:33:38 INFO  Account:22 - Зашел ca9cab52-9834-49d7-b831-ebedf3c0bcfd
+2024-03-23 18:33:38 INFO  Account:36 - Блокировка id ca9cab52-9834-49d7-b831-ebedf3c0bcfd не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id 1126ced6-c545-424f-949d-b54e82b5809c не удалась
+2024-03-23 18:33:38 INFO  Account:22 - Зашел 1126ced6-c545-424f-949d-b54e82b5809c
+2024-03-23 18:33:38 INFO  Account:25 - Зашел 84cc1492-c227-4ba9-a544-794e177500bc
+2024-03-23 18:33:38 INFO  Account:29 - Transfer from account 1126ced6-c545-424f-949d-b54e82b5809c to account 84cc1492-c227-4ba9-a544-794e177500bc of amount 19 completed.
+2024-03-23 18:33:38 INFO  Account:22 - Зашел 1126ced6-c545-424f-949d-b54e82b5809c
+2024-03-23 18:33:38 INFO  Account:25 - Зашел 84cc1492-c227-4ba9-a544-794e177500bc
+2024-03-23 18:33:38 INFO  Account:29 - Transfer from account 1126ced6-c545-424f-949d-b54e82b5809c to account 84cc1492-c227-4ba9-a544-794e177500bc of amount 469 completed.
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id ca9cab52-9834-49d7-b831-ebedf3c0bcfd не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id ca9cab52-9834-49d7-b831-ebedf3c0bcfd не удалась
+2024-03-23 18:33:38 INFO  Account:40 - Блокировка id 81905b6d-649b-42c8-883d-7397b422191d не удалась
+2024-03-23 18:33:38 INFO  Account:22 - Зашел 84cc1492-c227-4ba9-a544-794e177500bc
+2024-03-23 18:33:38 INFO  Account:22 - Зашел ca9cab52-9834-49d7-b831-ebedf3c0bcfd
+2024-03-23 18:33:38 INFO  Account:25 - Зашел 1126ced6-c545-424f-949d-b54e82b5809c
+2024-03-23 18:33:38 INFO  Account:22 - Зашел 81905b6d-649b-42c8-883d-7397b422191d
+2024-03-23 18:33:38 INFO  Account:29 - Transfer from account ca9cab52-9834-49d7-b831-ebedf3c0bcfd to account 1126ced6-c545-424f-949d-b54e82b5809c of amount 480 completed.
+2024-03-23 18:33:38 INFO  Account:36 - Блокировка id 84cc1492-c227-4ba9-a544-794e177500bc не удалась
+2024-03-23 18:33:38 INFO  Account:36 - Блокировка id 81905b6d-649b-42c8-883d-7397b422191d не удалась
+2024-03-23 18:33:38 INFO  Main:56 - All transactions completed. Exiting application.
+2024-03-23 18:36:29 INFO  Main:63 - Initialized account 6bb58330-963d-43da-a576-f0898eede06a
+2024-03-23 18:36:29 INFO  Main:63 - Initialized account 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d
+2024-03-23 18:36:29 INFO  Main:63 - Initialized account bab3f4f2-ba52-44f2-a7d3-7bc545717682
+2024-03-23 18:36:29 INFO  Main:63 - Initialized account 8299da41-c589-4aaf-8e68-98e636df67b5
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 6bb58330-963d-43da-a576-f0898eede06a
+2024-03-23 18:36:29 INFO  Account:22 - Зашел bab3f4f2-ba52-44f2-a7d3-7bc545717682
+2024-03-23 18:36:29 INFO  Account:25 - Зашел 8299da41-c589-4aaf-8e68-98e636df67b5
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id 6bb58330-963d-43da-a576-f0898eede06a не удалась
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id bab3f4f2-ba52-44f2-a7d3-7bc545717682 не удалась
+2024-03-23 18:36:29 INFO  Account:22 - Зашел bab3f4f2-ba52-44f2-a7d3-7bc545717682
+2024-03-23 18:36:29 INFO  Account:25 - Зашел 6bb58330-963d-43da-a576-f0898eede06a
+2024-03-23 18:36:29 INFO  Account:29 - Transfer from account bab3f4f2-ba52-44f2-a7d3-7bc545717682 to account 6bb58330-963d-43da-a576-f0898eede06a of amount 600 completed.
+2024-03-23 18:36:29 INFO  Account:29 - Transfer from account 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d to account 8299da41-c589-4aaf-8e68-98e636df67b5 of amount 174 completed.
+2024-03-23 18:36:29 INFO  Account:22 - Зашел bab3f4f2-ba52-44f2-a7d3-7bc545717682
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id bab3f4f2-ba52-44f2-a7d3-7bc545717682 не удалась
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 8299da41-c589-4aaf-8e68-98e636df67b5
+2024-03-23 18:36:29 INFO  Account:22 - Зашел bab3f4f2-ba52-44f2-a7d3-7bc545717682
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id bab3f4f2-ba52-44f2-a7d3-7bc545717682 не удалась
+2024-03-23 18:36:29 INFO  Account:25 - Зашел 6bb58330-963d-43da-a576-f0898eede06a
+2024-03-23 18:36:29 INFO  Account:22 - Зашел bab3f4f2-ba52-44f2-a7d3-7bc545717682
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d не удалась
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id bab3f4f2-ba52-44f2-a7d3-7bc545717682 не удалась
+2024-03-23 18:36:29 INFO  Account:29 - Transfer from account 8299da41-c589-4aaf-8e68-98e636df67b5 to account 6bb58330-963d-43da-a576-f0898eede06a of amount 651 completed.
+2024-03-23 18:36:29 INFO  Account:22 - Зашел bab3f4f2-ba52-44f2-a7d3-7bc545717682
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id bab3f4f2-ba52-44f2-a7d3-7bc545717682 не удалась
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 6bb58330-963d-43da-a576-f0898eede06a
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 8299da41-c589-4aaf-8e68-98e636df67b5
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id 6bb58330-963d-43da-a576-f0898eede06a не удалась
+2024-03-23 18:36:29 INFO  Account:22 - Зашел bab3f4f2-ba52-44f2-a7d3-7bc545717682
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d не удалась
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id bab3f4f2-ba52-44f2-a7d3-7bc545717682 не удалась
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id 8299da41-c589-4aaf-8e68-98e636df67b5 не удалась
+2024-03-23 18:36:29 INFO  Account:22 - Зашел bab3f4f2-ba52-44f2-a7d3-7bc545717682
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id bab3f4f2-ba52-44f2-a7d3-7bc545717682 не удалась
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 6bb58330-963d-43da-a576-f0898eede06a
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d не удалась
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id 6bb58330-963d-43da-a576-f0898eede06a не удалась
+2024-03-23 18:36:29 INFO  Account:22 - Зашел bab3f4f2-ba52-44f2-a7d3-7bc545717682
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id bab3f4f2-ba52-44f2-a7d3-7bc545717682 не удалась
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 8299da41-c589-4aaf-8e68-98e636df67b5
+2024-03-23 18:36:29 INFO  Account:22 - Зашел bab3f4f2-ba52-44f2-a7d3-7bc545717682
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id bab3f4f2-ba52-44f2-a7d3-7bc545717682 не удалась
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 6bb58330-963d-43da-a576-f0898eede06a
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d не удалась
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id 8299da41-c589-4aaf-8e68-98e636df67b5 не удалась
+2024-03-23 18:36:29 INFO  Account:25 - Зашел bab3f4f2-ba52-44f2-a7d3-7bc545717682
+2024-03-23 18:36:29 INFO  Account:29 - Transfer from account 6bb58330-963d-43da-a576-f0898eede06a to account bab3f4f2-ba52-44f2-a7d3-7bc545717682 of amount 531 completed.
+2024-03-23 18:36:29 INFO  Account:22 - Зашел bab3f4f2-ba52-44f2-a7d3-7bc545717682
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 8299da41-c589-4aaf-8e68-98e636df67b5
+2024-03-23 18:36:29 INFO  Account:25 - Зашел 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d
+2024-03-23 18:36:29 INFO  Account:29 - Transfer from account 8299da41-c589-4aaf-8e68-98e636df67b5 to account 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d of amount 596 completed.
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 6bb58330-963d-43da-a576-f0898eede06a
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id 6bb58330-963d-43da-a576-f0898eede06a не удалась
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id bab3f4f2-ba52-44f2-a7d3-7bc545717682 не удалась
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 6bb58330-963d-43da-a576-f0898eede06a
+2024-03-23 18:36:29 INFO  Account:36 - Блокировка id 6bb58330-963d-43da-a576-f0898eede06a не удалась
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d
+2024-03-23 18:36:29 INFO  Account:25 - Зашел bab3f4f2-ba52-44f2-a7d3-7bc545717682
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 6bb58330-963d-43da-a576-f0898eede06a
+2024-03-23 18:36:29 INFO  Account:25 - Зашел 8299da41-c589-4aaf-8e68-98e636df67b5
+2024-03-23 18:36:29 INFO  Account:29 - Transfer from account 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d to account bab3f4f2-ba52-44f2-a7d3-7bc545717682 of amount 504 completed.
+2024-03-23 18:36:29 INFO  Account:29 - Transfer from account 6bb58330-963d-43da-a576-f0898eede06a to account 8299da41-c589-4aaf-8e68-98e636df67b5 of amount 603 completed.
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 6bb58330-963d-43da-a576-f0898eede06a
+2024-03-23 18:36:29 INFO  Account:25 - Зашел bab3f4f2-ba52-44f2-a7d3-7bc545717682
+2024-03-23 18:36:29 INFO  Account:29 - Transfer from account 6bb58330-963d-43da-a576-f0898eede06a to account bab3f4f2-ba52-44f2-a7d3-7bc545717682 of amount 628 completed.
+2024-03-23 18:36:29 INFO  Account:22 - Зашел 6bb58330-963d-43da-a576-f0898eede06a
+2024-03-23 18:36:29 INFO  Account:25 - Зашел 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d
+2024-03-23 18:36:29 INFO  Account:29 - Transfer from account 6bb58330-963d-43da-a576-f0898eede06a to account 30b4cfa6-a52f-4828-9d05-5d32cb5ae15d of amount 271 completed.
+2024-03-23 18:36:29 INFO  Main:56 - All transactions completed. Exiting application.
+2024-03-23 18:55:35 INFO  Main:64 - Initialized account 40d2d4de-59d1-422b-94e4-e4365bcc317b
+2024-03-23 18:55:35 INFO  Main:64 - Initialized account e167258d-1743-4095-941a-48a0c70955b2
+2024-03-23 18:55:35 INFO  Main:64 - Initialized account 43e3e057-a3b6-478c-ac4d-152abb5dd4d5
+2024-03-23 18:55:35 INFO  Main:64 - Initialized account 3c4bff85-1b57-4706-9037-a75c7e7110b5
+2024-03-23 18:55:35 INFO  Account:22 - Зашел e167258d-1743-4095-941a-48a0c70955b2
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 3c4bff85-1b57-4706-9037-a75c7e7110b5
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 40d2d4de-59d1-422b-94e4-e4365bcc317b
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 43e3e057-a3b6-478c-ac4d-152abb5dd4d5
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 40d2d4de-59d1-422b-94e4-e4365bcc317b не удалась
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id e167258d-1743-4095-941a-48a0c70955b2 не удалась
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 40d2d4de-59d1-422b-94e4-e4365bcc317b не удалась
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 43e3e057-a3b6-478c-ac4d-152abb5dd4d5 не удалась
+2024-03-23 18:55:35 INFO  Account:22 - Зашел e167258d-1743-4095-941a-48a0c70955b2
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 40d2d4de-59d1-422b-94e4-e4365bcc317b
+2024-03-23 18:55:35 INFO  Account:25 - Зашел 3c4bff85-1b57-4706-9037-a75c7e7110b5
+2024-03-23 18:55:35 INFO  Account:25 - Зашел 43e3e057-a3b6-478c-ac4d-152abb5dd4d5
+2024-03-23 18:55:35 INFO  Account:29 - Transfer from account e167258d-1743-4095-941a-48a0c70955b2 to account 43e3e057-a3b6-478c-ac4d-152abb5dd4d5 of amount 165 completed.
+2024-03-23 18:55:35 INFO  Account:29 - Transfer from account 40d2d4de-59d1-422b-94e4-e4365bcc317b to account 3c4bff85-1b57-4706-9037-a75c7e7110b5 of amount 935 completed.
+2024-03-23 18:55:35 INFO  Account:22 - Зашел e167258d-1743-4095-941a-48a0c70955b2
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 40d2d4de-59d1-422b-94e4-e4365bcc317b
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 3c4bff85-1b57-4706-9037-a75c7e7110b5
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 43e3e057-a3b6-478c-ac4d-152abb5dd4d5 не удалась
+2024-03-23 18:55:35 INFO  Account:25 - Зашел 43e3e057-a3b6-478c-ac4d-152abb5dd4d5
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 40d2d4de-59d1-422b-94e4-e4365bcc317b не удалась
+2024-03-23 18:55:35 INFO  Account:29 - Transfer from account 40d2d4de-59d1-422b-94e4-e4365bcc317b to account 43e3e057-a3b6-478c-ac4d-152abb5dd4d5 of amount 520 completed.
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 3c4bff85-1b57-4706-9037-a75c7e7110b5
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 43e3e057-a3b6-478c-ac4d-152abb5dd4d5
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id e167258d-1743-4095-941a-48a0c70955b2 не удалась
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 40d2d4de-59d1-422b-94e4-e4365bcc317b
+2024-03-23 18:55:35 INFO  Account:22 - Зашел e167258d-1743-4095-941a-48a0c70955b2
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 3c4bff85-1b57-4706-9037-a75c7e7110b5 не удалась
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 43e3e057-a3b6-478c-ac4d-152abb5dd4d5
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 43e3e057-a3b6-478c-ac4d-152abb5dd4d5 не удалась
+2024-03-23 18:55:35 INFO  Account:25 - Зашел 40d2d4de-59d1-422b-94e4-e4365bcc317b
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 40d2d4de-59d1-422b-94e4-e4365bcc317b не удалась
+2024-03-23 18:55:35 INFO  Account:29 - Transfer from account 43e3e057-a3b6-478c-ac4d-152abb5dd4d5 to account 40d2d4de-59d1-422b-94e4-e4365bcc317b of amount 760 completed.
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 3c4bff85-1b57-4706-9037-a75c7e7110b5
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 40d2d4de-59d1-422b-94e4-e4365bcc317b не удалась
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 40d2d4de-59d1-422b-94e4-e4365bcc317b
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 43e3e057-a3b6-478c-ac4d-152abb5dd4d5
+2024-03-23 18:55:35 INFO  Account:22 - Зашел e167258d-1743-4095-941a-48a0c70955b2
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 40d2d4de-59d1-422b-94e4-e4365bcc317b не удалась
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 40d2d4de-59d1-422b-94e4-e4365bcc317b не удалась
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id e167258d-1743-4095-941a-48a0c70955b2 не удалась
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 43e3e057-a3b6-478c-ac4d-152abb5dd4d5
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 40d2d4de-59d1-422b-94e4-e4365bcc317b не удалась
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 40d2d4de-59d1-422b-94e4-e4365bcc317b
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 43e3e057-a3b6-478c-ac4d-152abb5dd4d5
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 3c4bff85-1b57-4706-9037-a75c7e7110b5 не удалась
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 3c4bff85-1b57-4706-9037-a75c7e7110b5
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 40d2d4de-59d1-422b-94e4-e4365bcc317b не удалась
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 43e3e057-a3b6-478c-ac4d-152abb5dd4d5
+2024-03-23 18:55:35 INFO  Account:25 - Зашел e167258d-1743-4095-941a-48a0c70955b2
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 3c4bff85-1b57-4706-9037-a75c7e7110b5 не удалась
+2024-03-23 18:55:35 INFO  Account:29 - Transfer from account 43e3e057-a3b6-478c-ac4d-152abb5dd4d5 to account e167258d-1743-4095-941a-48a0c70955b2 of amount 151 completed.
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 3c4bff85-1b57-4706-9037-a75c7e7110b5
+2024-03-23 18:55:35 INFO  Account:25 - Зашел e167258d-1743-4095-941a-48a0c70955b2
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 43e3e057-a3b6-478c-ac4d-152abb5dd4d5
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 40d2d4de-59d1-422b-94e4-e4365bcc317b
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 40d2d4de-59d1-422b-94e4-e4365bcc317b не удалась
+2024-03-23 18:55:35 INFO  Account:29 - Transfer from account 3c4bff85-1b57-4706-9037-a75c7e7110b5 to account e167258d-1743-4095-941a-48a0c70955b2 of amount 4 completed.
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 3c4bff85-1b57-4706-9037-a75c7e7110b5 не удалась
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 3c4bff85-1b57-4706-9037-a75c7e7110b5
+2024-03-23 18:55:35 INFO  Account:22 - Зашел e167258d-1743-4095-941a-48a0c70955b2
+2024-03-23 18:55:35 INFO  Account:25 - Зашел 43e3e057-a3b6-478c-ac4d-152abb5dd4d5
+2024-03-23 18:55:35 INFO  Account:29 - Transfer from account 3c4bff85-1b57-4706-9037-a75c7e7110b5 to account 43e3e057-a3b6-478c-ac4d-152abb5dd4d5 of amount 234 completed.
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 40d2d4de-59d1-422b-94e4-e4365bcc317b
+2024-03-23 18:55:35 ERROR Account:37 - Блокировка id 43e3e057-a3b6-478c-ac4d-152abb5dd4d5 не удалась
+2024-03-23 18:55:35 INFO  Account:25 - Зашел 3c4bff85-1b57-4706-9037-a75c7e7110b5
+2024-03-23 18:55:35 INFO  Account:29 - Transfer from account 40d2d4de-59d1-422b-94e4-e4365bcc317b to account 3c4bff85-1b57-4706-9037-a75c7e7110b5 of amount 929 completed.
+2024-03-23 18:55:35 INFO  Account:22 - Зашел 40d2d4de-59d1-422b-94e4-e4365bcc317b
+2024-03-23 18:55:35 INFO  Account:25 - Зашел 3c4bff85-1b57-4706-9037-a75c7e7110b5
+2024-03-23 18:55:35 INFO  Account:29 - Transfer from account 40d2d4de-59d1-422b-94e4-e4365bcc317b to account 3c4bff85-1b57-4706-9037-a75c7e7110b5 of amount 552 completed.
+2024-03-23 18:55:35 INFO  Main:57 - All transactions completed. Exiting application.
+2024-03-23 19:11:34 INFO  Main:64 - Initialized account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:34 INFO  Main:64 - Initialized account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:34 INFO  Main:64 - Initialized account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:34 INFO  Main:64 - Initialized account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:35 INFO  Account:22 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:35 INFO  Account:25 - Locking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:35 INFO  Account:29 - Transfer from account 94f46a91-dfdb-4871-af56-82cb54af3999 to account e05707bd-c898-4e67-b588-93aca0369361 of amount 976 completed.
+2024-03-23 19:11:35 INFO  Account:22 - Locking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:35 INFO  Account:35 - Unlocking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:35 INFO  Account:41 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:35 ERROR Account:38 - Failed to acquire lock for account 94f46a91-dfdb-4871-af56-82cb54af3999. Unable to proceed with the transaction.
+2024-03-23 19:11:35 INFO  Account:41 - Unlocking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:35 INFO  Account:22 - Locking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:35 INFO  Account:25 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:35 INFO  Account:29 - Transfer from account e05707bd-c898-4e67-b588-93aca0369361 to account 94f46a91-dfdb-4871-af56-82cb54af3999 of amount 749 completed.
+2024-03-23 19:11:35 INFO  Account:35 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:35 INFO  Account:41 - Unlocking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:36 INFO  Account:22 - Locking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:36 INFO  Account:25 - Locking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:36 INFO  Account:29 - Transfer from account 640b70d8-08c3-486e-922c-7216ccae1f20 to account e05707bd-c898-4e67-b588-93aca0369361 of amount 293 completed.
+2024-03-23 19:11:36 INFO  Account:35 - Unlocking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:36 INFO  Account:41 - Unlocking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:36 INFO  Account:22 - Locking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:36 INFO  Account:25 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:36 INFO  Account:29 - Transfer from account 640b70d8-08c3-486e-922c-7216ccae1f20 to account 94f46a91-dfdb-4871-af56-82cb54af3999 of amount 266 completed.
+2024-03-23 19:11:36 INFO  Account:35 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:36 INFO  Account:41 - Unlocking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:37 INFO  Account:22 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:37 INFO  Account:25 - Locking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:37 INFO  Account:29 - Transfer from account f2c84864-bf1d-4c3b-81ea-aceea94d55ae to account 640b70d8-08c3-486e-922c-7216ccae1f20 of amount 40 completed.
+2024-03-23 19:11:37 INFO  Account:35 - Unlocking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:37 INFO  Account:41 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:37 INFO  Account:22 - Locking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:37 INFO  Account:25 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:37 INFO  Account:29 - Transfer from account 640b70d8-08c3-486e-922c-7216ccae1f20 to account 94f46a91-dfdb-4871-af56-82cb54af3999 of amount 844 completed.
+2024-03-23 19:11:37 INFO  Account:35 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:37 INFO  Account:41 - Unlocking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:37 INFO  Account:22 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:37 INFO  Account:25 - Locking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:37 INFO  Account:29 - Transfer from account 94f46a91-dfdb-4871-af56-82cb54af3999 to account e05707bd-c898-4e67-b588-93aca0369361 of amount 791 completed.
+2024-03-23 19:11:37 INFO  Account:35 - Unlocking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:37 INFO  Account:41 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:38 INFO  Account:22 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:38 INFO  Account:25 - Locking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:38 INFO  Account:29 - Transfer from account 94f46a91-dfdb-4871-af56-82cb54af3999 to account 640b70d8-08c3-486e-922c-7216ccae1f20 of amount 73 completed.
+2024-03-23 19:11:38 INFO  Account:35 - Unlocking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:38 INFO  Account:41 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:38 INFO  Account:22 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:38 INFO  Account:25 - Locking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:38 INFO  Account:29 - Transfer from account f2c84864-bf1d-4c3b-81ea-aceea94d55ae to account e05707bd-c898-4e67-b588-93aca0369361 of amount 475 completed.
+2024-03-23 19:11:38 INFO  Account:35 - Unlocking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:38 INFO  Account:41 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:39 INFO  Account:22 - Locking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:39 INFO  Account:25 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:39 INFO  Account:29 - Transfer from account e05707bd-c898-4e67-b588-93aca0369361 to account 94f46a91-dfdb-4871-af56-82cb54af3999 of amount 445 completed.
+2024-03-23 19:11:39 INFO  Account:35 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:39 INFO  Account:41 - Unlocking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:39 INFO  Account:22 - Locking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:39 INFO  Account:25 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:39 INFO  Account:29 - Transfer from account 640b70d8-08c3-486e-922c-7216ccae1f20 to account f2c84864-bf1d-4c3b-81ea-aceea94d55ae of amount 740 completed.
+2024-03-23 19:11:39 INFO  Account:35 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:39 INFO  Account:41 - Unlocking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:39 INFO  Account:22 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:39 INFO  Account:25 - Locking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:39 INFO  Account:29 - Transfer from account f2c84864-bf1d-4c3b-81ea-aceea94d55ae to account e05707bd-c898-4e67-b588-93aca0369361 of amount 18 completed.
+2024-03-23 19:11:39 INFO  Account:35 - Unlocking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:39 INFO  Account:41 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:39 INFO  Account:22 - Locking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:39 INFO  Account:25 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:39 INFO  Account:29 - Transfer from account e05707bd-c898-4e67-b588-93aca0369361 to account f2c84864-bf1d-4c3b-81ea-aceea94d55ae of amount 155 completed.
+2024-03-23 19:11:39 INFO  Account:35 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:39 INFO  Account:41 - Unlocking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:40 INFO  Account:22 - Locking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:40 INFO  Account:25 - Locking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:40 INFO  Account:29 - Transfer from account e05707bd-c898-4e67-b588-93aca0369361 to account 640b70d8-08c3-486e-922c-7216ccae1f20 of amount 750 completed.
+2024-03-23 19:11:40 INFO  Account:35 - Unlocking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:40 INFO  Account:41 - Unlocking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:40 INFO  Account:22 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:40 INFO  Account:25 - Locking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:40 INFO  Account:29 - Transfer from account 94f46a91-dfdb-4871-af56-82cb54af3999 to account 640b70d8-08c3-486e-922c-7216ccae1f20 of amount 732 completed.
+2024-03-23 19:11:40 INFO  Account:35 - Unlocking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:40 INFO  Account:41 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:40 INFO  Account:22 - Locking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:40 INFO  Account:25 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:40 INFO  Account:29 - Transfer from account 640b70d8-08c3-486e-922c-7216ccae1f20 to account 94f46a91-dfdb-4871-af56-82cb54af3999 of amount 230 completed.
+2024-03-23 19:11:40 INFO  Account:35 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:40 INFO  Account:41 - Unlocking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:41 INFO  Account:22 - Locking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:41 INFO  Account:25 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:41 INFO  Account:29 - Transfer from account e05707bd-c898-4e67-b588-93aca0369361 to account f2c84864-bf1d-4c3b-81ea-aceea94d55ae of amount 502 completed.
+2024-03-23 19:11:41 INFO  Account:35 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:41 INFO  Account:41 - Unlocking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:41 INFO  Account:22 - Locking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:41 INFO  Account:25 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:41 INFO  Account:29 - Transfer from account e05707bd-c898-4e67-b588-93aca0369361 to account f2c84864-bf1d-4c3b-81ea-aceea94d55ae of amount 587 completed.
+2024-03-23 19:11:41 INFO  Account:35 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:41 INFO  Account:41 - Unlocking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:41 INFO  Account:22 - Locking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:41 INFO  Account:25 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:41 INFO  Account:29 - Transfer from account e05707bd-c898-4e67-b588-93aca0369361 to account f2c84864-bf1d-4c3b-81ea-aceea94d55ae of amount 962 completed.
+2024-03-23 19:11:41 INFO  Account:35 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:41 INFO  Account:41 - Unlocking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:41 INFO  Account:22 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:41 INFO  Account:25 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:41 INFO  Account:29 - Transfer from account 94f46a91-dfdb-4871-af56-82cb54af3999 to account f2c84864-bf1d-4c3b-81ea-aceea94d55ae of amount 796 completed.
+2024-03-23 19:11:41 INFO  Account:35 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:41 INFO  Account:41 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:42 INFO  Account:22 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:42 INFO  Account:25 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:42 INFO  Account:29 - Transfer from account f2c84864-bf1d-4c3b-81ea-aceea94d55ae to account 94f46a91-dfdb-4871-af56-82cb54af3999 of amount 778 completed.
+2024-03-23 19:11:42 INFO  Account:35 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:42 INFO  Account:41 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:42 INFO  Account:22 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:42 INFO  Account:25 - Locking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:42 INFO  Account:29 - Transfer from account f2c84864-bf1d-4c3b-81ea-aceea94d55ae to account e05707bd-c898-4e67-b588-93aca0369361 of amount 753 completed.
+2024-03-23 19:11:42 INFO  Account:35 - Unlocking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:42 INFO  Account:41 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:42 INFO  Account:22 - Locking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:42 INFO  Account:25 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:42 INFO  Account:29 - Transfer from account 640b70d8-08c3-486e-922c-7216ccae1f20 to account 94f46a91-dfdb-4871-af56-82cb54af3999 of amount 189 completed.
+2024-03-23 19:11:42 INFO  Account:35 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:42 INFO  Account:41 - Unlocking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:43 INFO  Account:22 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:43 INFO  Account:25 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:43 INFO  Account:29 - Transfer from account f2c84864-bf1d-4c3b-81ea-aceea94d55ae to account 94f46a91-dfdb-4871-af56-82cb54af3999 of amount 667 completed.
+2024-03-23 19:11:43 INFO  Account:35 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:43 INFO  Account:41 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:43 INFO  Account:22 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:43 INFO  Account:25 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:43 INFO  Account:29 - Transfer from account 94f46a91-dfdb-4871-af56-82cb54af3999 to account f2c84864-bf1d-4c3b-81ea-aceea94d55ae of amount 795 completed.
+2024-03-23 19:11:43 INFO  Account:35 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:43 INFO  Account:41 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:43 INFO  Account:22 - Locking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:43 INFO  Account:25 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:43 INFO  Account:29 - Transfer from account e05707bd-c898-4e67-b588-93aca0369361 to account f2c84864-bf1d-4c3b-81ea-aceea94d55ae of amount 602 completed.
+2024-03-23 19:11:43 INFO  Account:35 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:43 INFO  Account:41 - Unlocking account e05707bd-c898-4e67-b588-93aca0369361
+2024-03-23 19:11:44 INFO  Account:22 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:44 INFO  Account:25 - Locking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:44 INFO  Account:29 - Transfer from account 94f46a91-dfdb-4871-af56-82cb54af3999 to account 640b70d8-08c3-486e-922c-7216ccae1f20 of amount 647 completed.
+2024-03-23 19:11:44 INFO  Account:35 - Unlocking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:44 INFO  Account:41 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:44 INFO  Account:22 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:44 INFO  Account:25 - Locking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:44 INFO  Account:29 - Transfer from account f2c84864-bf1d-4c3b-81ea-aceea94d55ae to account 640b70d8-08c3-486e-922c-7216ccae1f20 of amount 447 completed.
+2024-03-23 19:11:44 INFO  Account:35 - Unlocking account 640b70d8-08c3-486e-922c-7216ccae1f20
+2024-03-23 19:11:44 INFO  Account:41 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:44 INFO  Account:22 - Locking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:44 INFO  Account:25 - Locking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:44 INFO  Account:29 - Transfer from account f2c84864-bf1d-4c3b-81ea-aceea94d55ae to account 94f46a91-dfdb-4871-af56-82cb54af3999 of amount 102 completed.
+2024-03-23 19:11:44 INFO  Account:35 - Unlocking account 94f46a91-dfdb-4871-af56-82cb54af3999
+2024-03-23 19:11:44 INFO  Account:41 - Unlocking account f2c84864-bf1d-4c3b-81ea-aceea94d55ae
+2024-03-23 19:11:44 INFO  Main:57 - All transactions completed. Exiting application.
+2024-03-23 19:15:27 INFO  Main:64 - Initialized account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:15:27 INFO  Main:64 - Initialized account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:15:27 INFO  Main:64 - Initialized account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:15:27 INFO  Main:64 - Initialized account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:15:43 INFO  Account:22 - Locking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:15:43 INFO  Account:25 - Locking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:15:43 INFO  Account:29 - Transfer from account 10e36bf6-369f-4646-855c-efd1f252b0d8 to account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08 of amount 408 completed.
+2024-03-23 19:15:43 INFO  Account:35 - Unlocking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:15:43 INFO  Account:41 - Unlocking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:15:43 INFO  Account:22 - Locking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:15:43 INFO  Account:25 - Locking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:15:43 INFO  Account:29 - Transfer from account f11ed3fb-7a42-44da-b686-1bb094130d4a to account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08 of amount 639 completed.
+2024-03-23 19:15:43 INFO  Account:35 - Unlocking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:15:43 INFO  Account:41 - Unlocking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:15:47 INFO  Account:22 - Locking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:15:47 INFO  Account:25 - Locking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:15:47 INFO  Account:29 - Transfer from account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08 to account f11ed3fb-7a42-44da-b686-1bb094130d4a of amount 376 completed.
+2024-03-23 19:15:47 INFO  Account:35 - Unlocking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:15:47 INFO  Account:41 - Unlocking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:15:47 INFO  Account:22 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:15:47 INFO  Account:25 - Locking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:15:47 INFO  Account:29 - Transfer from account b4f9570f-48da-4691-aa2d-b9b61696a00c to account f11ed3fb-7a42-44da-b686-1bb094130d4a of amount 910 completed.
+2024-03-23 19:15:47 INFO  Account:35 - Unlocking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:15:47 INFO  Account:41 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:15:47 INFO  Account:22 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:15:47 INFO  Account:25 - Locking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:15:47 INFO  Account:29 - Transfer from account b4f9570f-48da-4691-aa2d-b9b61696a00c to account 10e36bf6-369f-4646-855c-efd1f252b0d8 of amount 285 completed.
+2024-03-23 19:15:47 INFO  Account:35 - Unlocking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:15:47 INFO  Account:41 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:15:55 INFO  Account:22 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:15:55 INFO  Account:25 - Locking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:15:55 INFO  Account:29 - Transfer from account b4f9570f-48da-4691-aa2d-b9b61696a00c to account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08 of amount 358 completed.
+2024-03-23 19:15:55 INFO  Account:35 - Unlocking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:15:55 INFO  Account:41 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:01 INFO  Account:22 - Locking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:01 INFO  Account:25 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:01 INFO  Account:29 - Transfer from account f11ed3fb-7a42-44da-b686-1bb094130d4a to account b4f9570f-48da-4691-aa2d-b9b61696a00c of amount 501 completed.
+2024-03-23 19:16:01 INFO  Account:35 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:01 INFO  Account:41 - Unlocking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:02 INFO  Account:22 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:02 INFO  Account:25 - Locking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:02 INFO  Account:29 - Transfer from account b4f9570f-48da-4691-aa2d-b9b61696a00c to account 10e36bf6-369f-4646-855c-efd1f252b0d8 of amount 948 completed.
+2024-03-23 19:16:02 INFO  Account:35 - Unlocking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:02 INFO  Account:41 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:02 INFO  Account:22 - Locking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:02 INFO  Account:25 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:02 INFO  Account:29 - Transfer from account 10e36bf6-369f-4646-855c-efd1f252b0d8 to account b4f9570f-48da-4691-aa2d-b9b61696a00c of amount 556 completed.
+2024-03-23 19:16:02 INFO  Account:35 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:02 INFO  Account:41 - Unlocking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:07 INFO  Account:22 - Locking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:07 INFO  Account:25 - Locking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:07 INFO  Account:29 - Transfer from account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08 to account 10e36bf6-369f-4646-855c-efd1f252b0d8 of amount 281 completed.
+2024-03-23 19:16:07 INFO  Account:35 - Unlocking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:07 INFO  Account:41 - Unlocking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:11 INFO  Account:22 - Locking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:11 INFO  Account:25 - Locking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:11 INFO  Account:29 - Transfer from account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08 to account f11ed3fb-7a42-44da-b686-1bb094130d4a of amount 316 completed.
+2024-03-23 19:16:11 INFO  Account:35 - Unlocking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:11 INFO  Account:41 - Unlocking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:13 INFO  Account:22 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:13 INFO  Account:25 - Locking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:13 INFO  Account:29 - Transfer from account b4f9570f-48da-4691-aa2d-b9b61696a00c to account 10e36bf6-369f-4646-855c-efd1f252b0d8 of amount 154 completed.
+2024-03-23 19:16:13 INFO  Account:35 - Unlocking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:13 INFO  Account:41 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:18 INFO  Account:22 - Locking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:18 INFO  Account:25 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:18 INFO  Account:29 - Transfer from account f11ed3fb-7a42-44da-b686-1bb094130d4a to account b4f9570f-48da-4691-aa2d-b9b61696a00c of amount 845 completed.
+2024-03-23 19:16:18 INFO  Account:35 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:18 INFO  Account:41 - Unlocking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:19 INFO  Account:22 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:19 INFO  Account:25 - Locking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:19 INFO  Account:29 - Transfer from account b4f9570f-48da-4691-aa2d-b9b61696a00c to account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08 of amount 683 completed.
+2024-03-23 19:16:19 INFO  Account:35 - Unlocking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:19 INFO  Account:41 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:26 INFO  Account:22 - Locking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:26 INFO  Account:25 - Locking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:26 INFO  Account:29 - Transfer from account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08 to account f11ed3fb-7a42-44da-b686-1bb094130d4a of amount 743 completed.
+2024-03-23 19:16:26 INFO  Account:35 - Unlocking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:26 INFO  Account:41 - Unlocking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:28 INFO  Account:22 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:28 INFO  Account:25 - Locking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:28 INFO  Account:29 - Transfer from account b4f9570f-48da-4691-aa2d-b9b61696a00c to account 10e36bf6-369f-4646-855c-efd1f252b0d8 of amount 109 completed.
+2024-03-23 19:16:28 INFO  Account:35 - Unlocking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:28 INFO  Account:41 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:30 INFO  Account:22 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:30 INFO  Account:25 - Locking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:30 INFO  Account:29 - Transfer from account b4f9570f-48da-4691-aa2d-b9b61696a00c to account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08 of amount 552 completed.
+2024-03-23 19:16:30 INFO  Account:35 - Unlocking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:30 INFO  Account:41 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:30 INFO  Account:22 - Locking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:30 INFO  Account:25 - Locking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:30 INFO  Account:29 - Transfer from account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08 to account 10e36bf6-369f-4646-855c-efd1f252b0d8 of amount 480 completed.
+2024-03-23 19:16:30 INFO  Account:35 - Unlocking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:30 INFO  Account:41 - Unlocking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:30 INFO  Account:22 - Locking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:30 INFO  Account:25 - Locking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:30 INFO  Account:29 - Transfer from account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08 to account f11ed3fb-7a42-44da-b686-1bb094130d4a of amount 607 completed.
+2024-03-23 19:16:30 INFO  Account:35 - Unlocking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:30 INFO  Account:41 - Unlocking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:36 INFO  Account:22 - Locking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:36 INFO  Account:25 - Locking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:36 INFO  Account:29 - Transfer from account 10e36bf6-369f-4646-855c-efd1f252b0d8 to account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08 of amount 392 completed.
+2024-03-23 19:16:36 INFO  Account:35 - Unlocking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:36 INFO  Account:41 - Unlocking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:40 INFO  Account:22 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:40 INFO  Account:25 - Locking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:40 INFO  Account:29 - Transfer from account b4f9570f-48da-4691-aa2d-b9b61696a00c to account 10e36bf6-369f-4646-855c-efd1f252b0d8 of amount 476 completed.
+2024-03-23 19:16:40 INFO  Account:35 - Unlocking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:40 INFO  Account:41 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:47 INFO  Account:22 - Locking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:47 INFO  Account:25 - Locking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:47 INFO  Account:29 - Transfer from account 10e36bf6-369f-4646-855c-efd1f252b0d8 to account f11ed3fb-7a42-44da-b686-1bb094130d4a of amount 835 completed.
+2024-03-23 19:16:47 INFO  Account:35 - Unlocking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:47 INFO  Account:41 - Unlocking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:47 INFO  Account:22 - Locking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:47 INFO  Account:25 - Locking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:47 INFO  Account:29 - Transfer from account f11ed3fb-7a42-44da-b686-1bb094130d4a to account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08 of amount 564 completed.
+2024-03-23 19:16:47 INFO  Account:35 - Unlocking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:47 INFO  Account:41 - Unlocking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:49 INFO  Account:22 - Locking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:49 INFO  Account:25 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:49 INFO  Account:29 - Transfer from account 10e36bf6-369f-4646-855c-efd1f252b0d8 to account b4f9570f-48da-4691-aa2d-b9b61696a00c of amount 37 completed.
+2024-03-23 19:16:49 INFO  Account:35 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:49 INFO  Account:41 - Unlocking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:49 INFO  Account:22 - Locking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:49 INFO  Account:25 - Locking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:49 INFO  Account:29 - Transfer from account f11ed3fb-7a42-44da-b686-1bb094130d4a to account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08 of amount 788 completed.
+2024-03-23 19:16:49 INFO  Account:35 - Unlocking account 5928dd43-fd30-4ce2-8b59-c1bfe81c3e08
+2024-03-23 19:16:49 INFO  Account:41 - Unlocking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:16:51 INFO  Account:22 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:16:51 INFO  Account:25 - Locking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:51 INFO  Account:29 - Transfer from account b4f9570f-48da-4691-aa2d-b9b61696a00c to account 10e36bf6-369f-4646-855c-efd1f252b0d8 of amount 954 completed.
+2024-03-23 19:16:51 INFO  Account:35 - Unlocking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:16:51 INFO  Account:41 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:17:03 INFO  Account:22 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:17:03 INFO  Account:25 - Locking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:17:03 INFO  Account:29 - Transfer from account b4f9570f-48da-4691-aa2d-b9b61696a00c to account 10e36bf6-369f-4646-855c-efd1f252b0d8 of amount 23 completed.
+2024-03-23 19:17:03 INFO  Account:35 - Unlocking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:17:03 INFO  Account:41 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:17:04 INFO  Account:22 - Locking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:17:04 INFO  Account:25 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:17:04 INFO  Account:29 - Transfer from account f11ed3fb-7a42-44da-b686-1bb094130d4a to account b4f9570f-48da-4691-aa2d-b9b61696a00c of amount 950 completed.
+2024-03-23 19:17:04 INFO  Account:35 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:17:04 INFO  Account:41 - Unlocking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:17:08 INFO  Account:22 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:17:08 INFO  Account:25 - Locking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:17:08 INFO  Account:29 - Transfer from account b4f9570f-48da-4691-aa2d-b9b61696a00c to account f11ed3fb-7a42-44da-b686-1bb094130d4a of amount 141 completed.
+2024-03-23 19:17:08 INFO  Account:35 - Unlocking account f11ed3fb-7a42-44da-b686-1bb094130d4a
+2024-03-23 19:17:08 INFO  Account:41 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:17:08 INFO  Account:22 - Locking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:17:08 INFO  Account:25 - Locking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:17:08 INFO  Account:29 - Transfer from account 10e36bf6-369f-4646-855c-efd1f252b0d8 to account b4f9570f-48da-4691-aa2d-b9b61696a00c of amount 402 completed.
+2024-03-23 19:17:08 INFO  Account:35 - Unlocking account b4f9570f-48da-4691-aa2d-b9b61696a00c
+2024-03-23 19:17:08 INFO  Account:41 - Unlocking account 10e36bf6-369f-4646-855c-efd1f252b0d8
+2024-03-23 19:17:08 INFO  Main:57 - All transactions completed. Exiting application.
